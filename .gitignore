@@ -1,0 +1,7 @@
+*.pkt.backup
+*.pka
+*.log
+*.bak
+~$*
+.DS_Store
+Thumbs.db
